@@ -1,5 +1,6 @@
 pub contract Library {
-    pub var books: [Book]
+  
+  pub var books: [Book]
 
     pub struct Book {
         pub let title: String
